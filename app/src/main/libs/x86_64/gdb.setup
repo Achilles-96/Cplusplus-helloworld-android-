@@ -1,0 +1,3 @@
+set solib-search-path /home/raghuram/OSS/hello-jni/app/src/main/obj/local/x86_64
+source /home/raghuram/Android/android-ndk-r10e/prebuilt/common/gdb/common.setup
+directory /home/raghuram/Android/android-ndk-r10e/platforms/android-21/arch-x86_64/usr/include /home/raghuram/Android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++ /home/raghuram/Android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include /home/raghuram/Android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/libs/x86_64/include /home/raghuram/Android/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/backward /home/raghuram/OSS/hello-jni/app/src/main/jni
